@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CMB-NGO/static/css/main.4d40120b.css",
-    "main.js": "/CMB-NGO/static/js/main.e973d3eb.js",
+    "main.js": "/CMB-NGO/static/js/main.d9e7ab15.js",
     "static/media/Director.jpg": "/CMB-NGO/static/media/Director.23c218086e0d61985c48.jpg",
     "static/media/MainPic.jpg": "/CMB-NGO/static/media/MainPic.3d5fdc1d8d2d5270bd79.jpg",
     "static/media/CMB-LOGO.jpg": "/CMB-NGO/static/media/CMB-LOGO.6695f131d53712a6d335.jpg",
@@ -9,10 +9,10 @@
     "static/media/MainPic2.jpg": "/CMB-NGO/static/media/MainPic2.bee21c371474a7cb1bf4.jpg",
     "index.html": "/CMB-NGO/index.html",
     "main.4d40120b.css.map": "/CMB-NGO/static/css/main.4d40120b.css.map",
-    "main.e973d3eb.js.map": "/CMB-NGO/static/js/main.e973d3eb.js.map"
+    "main.d9e7ab15.js.map": "/CMB-NGO/static/js/main.d9e7ab15.js.map"
   },
   "entrypoints": [
     "static/css/main.4d40120b.css",
-    "static/js/main.e973d3eb.js"
+    "static/js/main.d9e7ab15.js"
   ]
 }
